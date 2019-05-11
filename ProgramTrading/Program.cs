@@ -7,6 +7,7 @@ using MrWangAPI;
 
 namespace ProgramTrading
 {
+    //123
     class Program
     {
         static MrWangConnection MrWangConnection;
